@@ -1,4 +1,5 @@
 ﻿using System;
+using DemoLibrary;
 
 namespace ShowCase
 {
@@ -6,7 +7,8 @@ namespace ShowCase
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AccessDemo demo = new AccessDemo();
+            
         }
     }
 }
