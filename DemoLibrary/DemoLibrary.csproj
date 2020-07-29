@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<!-- <GenerateAssemblyInfo>false</GenerateAssemblyInfo> -->
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+<!-- <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute> -->
+</Project>
