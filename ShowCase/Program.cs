@@ -8,7 +8,6 @@ namespace ShowCase
         static void Main(string[] args)
         {
             AccessDemo demo = new AccessDemo();
-            
         }
     }
 }
