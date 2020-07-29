@@ -2,7 +2,7 @@
 
 namespace DemoLibrary
 {
-    public  class AccessLibrary
+    public  class AccessDemo
     {
         private void PrivateDemo()
         {
